@@ -5,7 +5,7 @@
 ## I'm a Reactjs developer
 
 - 🔭 I just completed my first internship as DSA scholar at [TwoWaits pvt. ltd.]
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m currently working on MERN stack development
 - 👯 And favourite language is C++
 - 🥅 2021 Goals: Create awesome projects and contribute to Open Source projects
 - ⚡ Fun fact: I love to listen music and play band
