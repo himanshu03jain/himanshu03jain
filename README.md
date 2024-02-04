@@ -1,14 +1,17 @@
-# Hi there, I'm [Himanshu jain][linkedin] 👋
+# Hi there, I'm [Himanshu Jain][linkedin] 👋
 
 
+## SDE at Bosch Global Software Technologies
+  Tech currently I used in this Org:
+  C++, Git, Linux, Jenkins, Shell script, Python, Unit Testing, SQL
 
-## I'm a Reactjs developer
-
-- 🔭 I had completed my first internship as a Reactjs developer at The Entrepreneurship Network.
+- 🔭 I completed my first internship as a Reactjs developer at The Entrepreneurship Network.
+- 🔭 Done internship at Bosch Global Software Technologies
 - 🌱 I’m currently working on MERN stack development
-- 👯 And favourite language is C++
-- 🥅 2022 Goals: Create awesome projects and CP
-- ⚡ Fun fact: I love to listen music and play band
+- 👯 And my favorite language is C++
+- 🥅 2024 Goals: Create awesome projects and CP
+- 🥅 Started New Learning: Open Source Contribution
+- ⚡ Fun fact: I love to listen to music and play band
 
 
 ### Connect with me:
